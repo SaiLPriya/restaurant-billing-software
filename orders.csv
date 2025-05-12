@@ -1,0 +1,4 @@
+Item Name,Quantity,Price,Order-Type,Payment Mode
+curd-rice,1-bowl,50/-,online,UPI
+dal-rice,2-bowls,200/-,dine-in,cash
+chicken-biryani,1-bowl,300/-,online,UPI
