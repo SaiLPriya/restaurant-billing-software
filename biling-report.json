@@ -1,0 +1,29 @@
+{
+  "billing_report": [
+    {
+      "Date": "12-May-2025",
+      "Item Name": "curd-rice",
+      "Quantity": "1-bowl",
+      "Price": 50,
+      "Total": 50,
+      "Order Type": "online",
+      "Payment Mode": "UPI"
+    }
+  ],
+  "menu_card": [
+    {
+      "category": "veg",
+      "item-name": "dal-rice",
+      "price": 100
+    }
+  ],
+  "orders": [
+    {
+      "Item Name": "curd-rice",
+      "Quantity": "1-bowl",
+      "Price": 50,
+      "Order-Type": "online",
+      "Payment Mode": "UPI"
+    }
+  ]
+}
